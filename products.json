@@ -1,0 +1,35 @@
+{
+  "products": {
+    "product": [
+      {
+        "id": "1",
+        "name": "Pascaud"
+      },
+      {
+        "id": "2",
+        "name": "Dr. Grandel"
+      },
+      {
+        "id": "3",
+        "name": "La Colline"
+      },
+      {
+        "id": "4",
+        "name": "Murad"
+      },
+      {
+        "id": "5",
+        "name": "Beauty Supps"
+      },
+      {
+        "id": "6",
+        "name": "Huismerk"
+      },
+      {
+        "id": "7",
+        "name": "Idsinga Massage"
+      }
+
+    ]
+  }
+}
