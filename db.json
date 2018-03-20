@@ -1,18 +1,19 @@
 {
-  
-"posts" : [
+  "products": {
+    "product": [
       {
         "id": "1",
         "name": "Pascaud"
       },
       {
-        "id": "6",
-        "name": "Huismerk"
+        "id": "5",
+        "name": "Beauty Supps"
       },
       {
-        "id": "7",
-        "name": "Idsinga Massage"
+        "id": "6",
+        "name": "Huismerk"
       }
 
-]
+    ]
+  }
 }
