@@ -22,5 +22,63 @@
       "id": "4",
       "name": "Specials"
     }
+  ],
+  "treatments": [
+    {
+      "id": "1",
+      "name": "La Colline anti aging",
+
+      "product": [
+        {
+          "id" : "1"
+        }
+      ], 
+
+      "category": [
+        {
+          "id" : "1"
+        },
+        {
+          "id" : "2"
+        }
+      ], 
+
+      "label" : [
+        {
+          "id" : "1"
+        },
+        {
+          "id" : "2"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Murad new skin",
+
+      "product": [
+        {
+          "id" : "1"
+        }
+      ], 
+
+      "category": [
+        {
+          "id" : "1"
+        },
+        {
+          "id" : "2"
+        }
+      ], 
+
+      "label" : [
+        {
+          "id" : "1"
+        },
+        {
+          "id" : "2"
+        }
+      ]
+    }
   ]
 }
