@@ -12,5 +12,15 @@
       "id": "7",
       "name": "Idsinga Massage"
     }
+  ],
+  "categories": [
+    {
+      "id": "3",
+      "name": "Huidverzorging"
+    },
+    {
+      "id": "4",
+      "name": "Specials"
+    }
   ]
 }
